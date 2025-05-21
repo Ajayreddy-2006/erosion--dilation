@@ -21,8 +21,8 @@ Erode the image
 Dilate the Image
  
 ## Program:
-## Developed by: SINGAMALA VENKATA SAI KUMAR REDDY
-## Register number: 212223230208
+## Developed by: T Ajay
+## Register number: 212223230007
 ## PROGRAM
 ```
 
