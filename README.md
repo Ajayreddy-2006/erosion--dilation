@@ -34,7 +34,7 @@ img1=np.zeros((100,500),dtype='uint8')
 font=cv2.FONT_HERSHEY_COMPLEX_SMALL
 
 # Create the text using cv2.putText
-cv2.putText(img1,'VENKATA SAI' ,(5,70),font,4,(255),2,cv2.LINE_AA)
+cv2.putText(img1,'T Ajay' ,(5,70),font,4,(255),2,cv2.LINE_AA)
 
 
 # Create the structuring element
